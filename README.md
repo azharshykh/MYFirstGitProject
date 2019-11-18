@@ -1,1 +1,1 @@
-# MYFirstGitProject
+# MyFirstGitProject
